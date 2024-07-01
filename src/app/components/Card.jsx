@@ -75,6 +75,7 @@ export default function Card() {
           Made with <a className="text-red-600">❤</a> by{" "}
           <a
             className="hover:text-blue-500 hover:underline"
+            target="_blank"
             href="https://github.com/sodaAPI">
             @sodaAPI
           </a>
