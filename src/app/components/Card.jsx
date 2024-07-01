@@ -24,7 +24,7 @@ export default function Card() {
   };
 
   return (
-    <div className="card bg-blue-950 w-full md:w-[500px] shadow-2xl p-5 mx-auto">
+    <div className="card bg-blue-950 w-full md:w-[500px] shadow-2xl p-5 mx-auto font-pixel">
       <Image className="p-5" src={Logo} alt="Pokedham Logo" />
 
       <div className="card-body p-5">
@@ -47,7 +47,7 @@ export default function Card() {
             <button
               type="submit"
               className="btn btn-accent font-bold text-[16px] text-purple-800">
-              Confirm
+              Submit
             </button>
           </div>
         </form>
