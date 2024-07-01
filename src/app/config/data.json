@@ -1,0 +1,405 @@
+{
+    "khodam": [
+      {
+        "id": 1,
+        "name": "Khodachu",
+        "description": "Roh yang mirip dengan Pikacrot, dikenal dengan kemampuan listrik dan kesetiaannya.",
+        "abilities": [
+          "Kejutan Listrik",
+          "Kesetiaan",
+          "Kecepatan"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Charikodam",
+        "description": "Roh seperti naga dengan kekuatan besar dan napas berapi.",
+        "abilities": [
+          "Napas Api",
+          "Terbang",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bulbakodam",
+        "description": "Roh berbasis tumbuhan yang memanfaatkan kekuatan alam untuk menyembuhkan dan melindungi.",
+        "abilities": [
+          "Pukulan Sulur",
+          "Penyembuhan",
+          "Berkah Alam"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Gengkodam",
+        "description": "Roh bayangan yang ahli dalam menyelinap dan menimbulkan ketakutan.",
+        "abilities": [
+          "Serangan Bayangan",
+          "Induksi Ketakutan",
+          "Tak Terlihat"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Kodamtwo",
+        "description": "Roh psikis yang kuat dengan kemampuan mental yang luar biasa.",
+        "abilities": [
+          "Telekinesis",
+          "Kontrol Pikiran",
+          "Telepati"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Jigglekodam",
+        "description": "Roh yang menawan yang menggunakan suaranya untuk menenangkan dan memikat.",
+        "abilities": [
+          "Lagu Pengantar Tidur",
+          "Pesona",
+          "Lagu Penyembuh"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Snorkodam",
+        "description": "Roh besar dan kuat yang dikenal dengan kemampuannya untuk tidur dalam waktu lama.",
+        "abilities": [
+          "Tidur Panjang",
+          "Kekuatan",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Laprakodam",
+        "description": "Roh yang cepat dan lincah dengan kemampuan untuk melompat tinggi.",
+        "abilities": [
+          "Lompatan Tinggi",
+          "Kecepatan",
+          "Kelincahan"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Vaporedam",
+        "description": "Roh air yang dapat mengendalikan dan memanipulasi air dengan mudah.",
+        "abilities": [
+          "Manipulasi Air",
+          "Penyembuhan",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Flarkodam",
+        "description": "Roh api yang memiliki kemampuan untuk menciptakan dan mengendalikan api.",
+        "abilities": [
+          "Penciptaan Api",
+          "Pengendalian Api",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Joltidam",
+        "description": "Roh listrik kecil yang sangat cepat dan penuh energi.",
+        "abilities": [
+          "Kecepatan",
+          "Kejutan Listrik",
+          "Kelincahan"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Drakodam",
+        "description": "Roh naga yang kuat dan berbahaya dengan kemampuan untuk terbang dan menyemburkan api.",
+        "abilities": [
+          "Terbang",
+          "Napas Api",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Eevedam",
+        "description": "Roh serbaguna yang dapat berubah bentuk dan memiliki berbagai kemampuan.",
+        "abilities": [
+          "Perubahan Bentuk",
+          "Adaptasi",
+          "Keserbagunaan"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Psykodam",
+        "description": "Roh psikis yang memiliki kemampuan untuk membaca pikiran dan memanipulasi objek dengan pikirannya.",
+        "abilities": [
+          "Pembacaan Pikiran",
+          "Telekinesis",
+          "Telepati"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Arkadam",
+        "description": "Roh yang tangguh dan berani dengan kekuatan fisik yang luar biasa.",
+        "abilities": [
+          "Kekuatan",
+          "Keberanian",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Zapdodam",
+        "description": "Roh burung listrik yang memiliki kekuatan untuk mengendalikan petir dan terbang dengan kecepatan tinggi.",
+        "abilities": [
+          "Pengendalian Petir",
+          "Terbang",
+          "Kecepatan"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Gyaradodam",
+        "description": "Roh laut yang besar dan kuat, dikenal dengan kemampuannya untuk menciptakan badai.",
+        "abilities": [
+          "Penciptaan Badai",
+          "Kekuatan",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Kabutokodam",
+        "description": "Roh serangga yang cepat dan lincah, dengan kemampuan untuk menyerang dengan kecepatan tinggi.",
+        "abilities": [
+          "Serangan Cepat",
+          "Kelincahan",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Nidokodam",
+        "description": "Roh berbisa yang memiliki kekuatan fisik yang kuat dan mampu melindungi dirinya dengan racun.",
+        "abilities": [
+          "Racun",
+          "Kekuatan",
+          "Perlindungan"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Onixodam",
+        "description": "Roh batu yang besar dan kuat dengan kemampuan untuk mengendalikan bumi.",
+        "abilities": [
+          "Pengendalian Bumi",
+          "Kekuatan",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Mewdam",
+        "description": "Roh langka dengan kekuatan psikis yang luar biasa, mampu mengubah realitas sekitarnya.",
+        "abilities": [
+          "Realitas Alternatif",
+          "Teleportasi",
+          "Telepati"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Squirtdam",
+        "description": "Roh air yang kecil namun tangguh, mampu menyemburkan air dengan tekanan tinggi.",
+        "abilities": [
+          "Air Pancar",
+          "Ketahanan",
+          "Kecepatan"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Meowodam",
+        "description": "Roh kucing yang lincah dan cerdik, menggunakan keahliannya dalam pertempuran.",
+        "abilities": [
+          "Pemukul",
+          "Kelincahan",
+          "Kecerdasan Taktis"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Goldedam",
+        "description": "Roh ikan emas yang berkilauan dengan kemampuan untuk menemukan harta karun di bawah air.",
+        "abilities": [
+          "Deteksi Harta",
+          "Berburu Harta Karun",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Dragodam",
+        "description": "Roh naga besar dengan sayap yang mampu menghasilkan angin badai dan kilat.",
+        "abilities": [
+          "Penciptaan Badai",
+          "Terbang",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Mudkodam",
+        "description": "Roh lumpur yang kuat, mampu mengendalikan tanah liat untuk melindungi dan menyerang musuhnya.",
+        "abilities": [
+          "Manipulasi Lumpur",
+          "Ketahanan",
+          "Kekuatan Fisik"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Venodam",
+        "description": "Roh bunga raksasa dengan kemampuan untuk mengendalikan tumbuh-tumbuhan dan memanipulasi alam.",
+        "abilities": [
+          "Manipulasi Tumbuh-tumbuhan",
+          "Penyembuhan",
+          "Kekuatan Alam"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Blastodam",
+        "description": "Roh air yang memiliki kemampuan untuk meledakkan air dengan tekanan tinggi, sering kali digunakan untuk melindungi wilayahnya.",
+        "abilities": [
+          "Meledakkan Air",
+          "Perlindungan Wilayah",
+          "Ketahanan"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Gastlodam",
+        "description": "Roh gas beracun yang mampu menyerang musuhnya dari kegelapan.",
+        "abilities": [
+          "Serangan Gas Beracun",
+          "Keberadaan di Kegelapan",
+          "Ketahanan Terhadap Fisik"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Steelodam",
+        "description": "Roh baja yang tidak dapat ditembus, dengan kemampuan untuk bertahan terhadap serangan fisik.",
+        "abilities": [
+          "Ketahanan Baja",
+          "Kekebalan Terhadap Serangan Fisik",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Fenrordam",
+        "description": "Roh serigala besar dengan gigi tajam dan kekuatan fisik yang mengagumkan.",
+        "abilities": [
+          "Gigitan Tajam",
+          "Kecepatan",
+          "Kekuatan"
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Chimerodam",
+        "description": "Roh berwujud chimera dengan kemampuan untuk menggabungkan berbagai elemen.",
+        "abilities": [
+          "Eksperimen Elemen",
+          "Fusi Elemen",
+          "Adaptasi"
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Sylphodam",
+        "description": "Roh angin yang elegan dengan kemampuan untuk mengendalikan cuaca.",
+        "abilities": [
+          "Manipulasi Angin",
+          "Kontrol Cuaca",
+          "Kecepatan"
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Auroradon",
+        "description": "Roh yang memancarkan cahaya yang indah, dapat menyembuhkan dan melindungi.",
+        "abilities": [
+          "Cahaya Suci",
+          "Penyembuhan",
+          "Perlindungan"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Phantasmagor",
+        "description": "Roh misterius yang dapat mengubah dirinya menjadi bayangan dari masa lalu.",
+        "abilities": [
+          "Manipulasi Bayangan",
+          "Ilusi",
+          "Mimikri"
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Hydrodam",
+        "description": "Roh ular air besar dengan kemampuan untuk menyemburkan air beracun.",
+        "abilities": [
+          "Racun Air",
+          "Ketahanan Terhadap Air",
+          "Ketangkasan"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Obsidianix",
+        "description": "Roh batu hitam yang dapat memanipulasi kristal dan mineral.",
+        "abilities": [
+          "Manipulasi Kristal",
+          "Kekuatan Batu",
+          "Ketahanan Terhadap Benda Tumpul"
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Solarion",
+        "description": "Roh matahari dengan kemampuan untuk memancarkan energi panas yang mematikan.",
+        "abilities": [
+          "Energi Matahari",
+          "Pemanasan",
+          "Keberanian"
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Nimbusstar",
+        "description": "Roh awan yang dapat mengendalikan petir dan hujan deras.",
+        "abilities": [
+          "Manipulasi Awan",
+          "Petir",
+          "Hujan Deras"
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Titanodam",
+        "description": "Roh raksasa dengan kekuatan fisik yang tak tertandingi dan keberanian yang luar biasa.",
+        "abilities": [
+          "Kekuatan Raksasa",
+          "Ketahanan",
+          "Ketahanan Terhadap Serangan Fisik"
+        ]
+      }
+    ]
+  }
+  

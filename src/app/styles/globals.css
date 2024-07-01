@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.backgroundImage {
+    background-image: url('/public/image/background-poke.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
